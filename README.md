@@ -24,7 +24,7 @@ Join Our Discord Server to get Activation Key : https://discord.gg/r2vmR5jbXt
 *Paid Version Also Available!*
 
 
-# Made By Notlol95 ``Don't Change Credit or I will stop to update``
+# Made By Notlol95 & NotXd95 ``Don't Change Credit or I will stop to update``
 # Next Update Will Fix Everything!
 
 ### ✨️ ``Features`` ✨️
@@ -34,7 +34,7 @@ Join Our Discord Server to get Activation Key : https://discord.gg/r2vmR5jbXt
 ``CAN INSTALL ALL THINGS`` REAL VPS
 ``EASY TO SETUP``
 ``NODE AUTO DELETION`` IF YOUR VPS GET FULLED STORAGE WITH ALL SSH VPS THEN IT WILL DELETE ALL VPS
-BTW IF YOU INDEED THEN DM @notlol95
+BTW IF YOU INDEED THEN DM @notlol95 & @notxd95
 ``CPU&GPU CRYPTO AUTOBAN`` IT CAN BAN ALL CRYPTO IF YOU ENABLE ``anti.sh``
 ``MORE COMMAND AND PACKAGE ADDING SOON``
 
